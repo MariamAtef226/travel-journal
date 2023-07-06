@@ -12,7 +12,7 @@ A static webpage that includes a dummy travel journal. The project is a part of 
 
 None
 
-### Link to calculator 🔗
+### Link to webpage 🔗
 
 <a href="https://travel-journal-of-mariam.netlify.app/"> Click Me! </a>
 
